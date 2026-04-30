@@ -1,0 +1,30 @@
+digraph ERD {
+    User [label="User / (role: customer/ / driver/shop_staff/ / admin)"];
+    Vehicle [label="Vehicle / (plate, model, / mileage)"];
+    RepairShop [label="RepairShop / (location, hours, / rating)"];
+    ServiceItem [label="ServiceItem / (category, price)"];
+    Reservation [label="Reservation / (datetime, state)"];
+    DispatchAssignment [label="DispatchAssignment / (pickup/return time)"];
+    GpsTrack [label="GpsTrack / (시계열, / TimescaleDB)"];
+    HandoverPhoto [label="HandoverPhoto / (EXIF + / SHA-256 hash)"];
+    MaintenanceRecord [label="MaintenanceRecord / (items, mileage, / nextDueAt)"];
+    Payment [label="Payment / (amount, pg_txn)"];
+    Review [label="Review / (rating)"];
+    Notification [label="Notification / (channel, payload)"];
+
+    PII [label="pii.* (분리 스키마) / • 이름·전화·주소 / • 면허·결제·계좌 / • KMS 컬럼 암호화"];
+
+    User -> Vehicle [label="owns"];
+    User -> Reservation [label="creates"];
+    Vehicle -> Reservation;
+    RepairShop -> Reservation;
+    ServiceItem -> Reservation;
+    Reservation -> DispatchAssignment;
+    Reservation -> Payment;
+    Reservation -> Review;
+    DispatchAssignment -> GpsTrack;
+    DispatchAssignment -> HandoverPhoto;
+    Vehicle -> MaintenanceRecord;
+    User -> Notification;
+    User -> PII [label="민감정보 / 분리 저장"];
+}

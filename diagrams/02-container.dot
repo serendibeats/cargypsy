@@ -1,0 +1,42 @@
+digraph Container {
+    customer_app [label="고객용 앱 / (Mobile/RN)"];
+    driver_app [label="기사용 앱 / (Mobile/RN)"];
+    shop_app [label="공업사용 앱 / (Mobile/RN)"];
+    vehicle_app [label="차량용 앱 / (검증 필요 ⚠)"];
+    admin_web [label="관리자 웹 / (Web)"];
+
+    api_gateway [label="API Gateway / + CDN"];
+
+    nestjs [label="NestJS / Modular Monolith"];
+    reservation [label="예약 모듈"];
+    dispatch [label="배차 모듈 / (WebSocket)"];
+    repair [label="정비 모듈"];
+    payment [label="결제 모듈"];
+    vehicle [label="차량 모듈"];
+
+    pg [label="PostgreSQL / + TimescaleDB"];
+    redis [label="Redis / (GEO·Pub/Sub)"];
+    r2 [label="Cloudflare R2 / (사진)"];
+
+    customer_app -> api_gateway;
+    driver_app -> api_gateway;
+    shop_app -> api_gateway;
+    vehicle_app -> api_gateway;
+    admin_web -> api_gateway;
+
+    api_gateway -> nestjs;
+
+    nestjs -> reservation;
+    nestjs -> dispatch;
+    nestjs -> repair;
+    nestjs -> payment;
+    nestjs -> vehicle;
+
+    reservation -> pg;
+    payment -> pg;
+    repair -> pg;
+    vehicle -> pg;
+    dispatch -> pg;
+    dispatch -> redis;
+    repair -> r2;
+}

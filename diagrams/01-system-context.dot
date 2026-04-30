@@ -1,0 +1,33 @@
+digraph SystemContext {
+    customer [label="차주 / (P1)"];
+    driver [label="대리기사 / (P2)"];
+    shop [label="공업사 직원 / (P3)"];
+    admin [label="운영자 / (P4)"];
+
+    cargypsy [label="CarGypsy / 플랫폼"];
+
+    auto365 [label="자동차365 / (차량정보)"];
+    kakao_map [label="카카오맵 / (지도/POI)"];
+    tmap [label="TMap / (기사 ETA)"];
+    portone [label="포트원/토스 / (결제)"];
+    fcm [label="FCM / (앱 푸시)"];
+    solapi [label="솔라피 / (알림톡)"];
+    clova [label="CLOVA OCR / (번호판)"];
+    r2 [label="Cloudflare R2 / (사진 저장)"];
+    nice [label="NICE / (본인인증)"];
+
+    customer -> cargypsy [label="예약·결제·차계부"];
+    driver -> cargypsy [label="배차·사진·GPS"];
+    shop -> cargypsy [label="작업 업데이트"];
+    admin -> cargypsy [label="운영 관리"];
+
+    cargypsy -> auto365 [label="차량 조회"];
+    cargypsy -> kakao_map;
+    cargypsy -> tmap;
+    cargypsy -> portone [label="결제"];
+    cargypsy -> fcm [label="푸시"];
+    cargypsy -> solapi [label="알림톡"];
+    cargypsy -> clova [label="OCR"];
+    cargypsy -> r2 [label="사진"];
+    cargypsy -> nice [label="본인인증"];
+}

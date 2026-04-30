@@ -1,0 +1,29 @@
+digraph Deployment {
+    aws [label="AWS Seoul Region / (ap-northeast-2) / — 데이터 거주성"];
+    ecs [label="ECS Fargate / (NestJS API)"];
+    rds [label="RDS PostgreSQL / + TimescaleDB"];
+    elasticache [label="ElastiCache / Redis"];
+    s3_backup [label="S3 (백업·로그)"];
+
+    cf_r2 [label="Cloudflare R2 / (사진 메인) / egress 무료"];
+    cf_images [label="Cloudflare Images / (리사이즈)"];
+
+    ncp_nice [label="NCP / + NICE 본인인증 / (한국 특화)"];
+    vercel [label="Vercel / (관리자 웹)"];
+
+    sentry [label="Sentry / (에러 추적)"];
+    grafana [label="Grafana Cloud / + Loki / (메트릭·로그)"];
+
+    aws -> ecs;
+    aws -> rds;
+    aws -> elasticache;
+    aws -> s3_backup;
+
+    ecs -> cf_r2 [label="사진 업로드"];
+    ecs -> cf_images;
+    ecs -> ncp_nice [label="본인인증"];
+    ecs -> sentry;
+    ecs -> grafana;
+
+    vercel -> ecs [label="API 호출"];
+}
