@@ -13,7 +13,6 @@
 차주·기사·공업사·관리자 **4역할 11화면**을 한 페이지로 시각화한 인터랙티브 mockup. GitHub Pages 호스팅, 외부 CDN 의존성 0.
 
 → 소스: [`docs/index.html`](./docs/index.html) (단일 파일, ~106KB · Tailwind 인라인) · SRS US-C/D/S/A 매핑
-→ 백업 링크 (Pages 미가용 시): [htmlpreview](https://htmlpreview.github.io/?https://github.com/serendibeats/cargypsy/blob/main/docs/index.html)
 
 ---
 
