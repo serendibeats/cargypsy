@@ -8,11 +8,12 @@
 
 ## 🎨 라이브 목업 v0.1
 
-[**▶ 클릭해서 바로 보기 (htmlpreview)**](https://htmlpreview.github.io/?https://github.com/serendibeats/cargypsy/blob/main/docs/index.html)
+[**▶ https://serendibeats.github.io/cargypsy/**](https://serendibeats.github.io/cargypsy/)
 
-차주·기사·공업사·관리자 **4역할 11화면**을 한 페이지로 시각화한 인터랙티브 mockup. 빌드/설치 없이 클릭으로 열린다.
+차주·기사·공업사·관리자 **4역할 11화면**을 한 페이지로 시각화한 인터랙티브 mockup. GitHub Pages 호스팅, 외부 CDN 의존성 0.
 
-→ 소스: [`docs/index.html`](./docs/index.html) (단일 파일, ~89KB) · SRS US-C/D/S/A 매핑
+→ 소스: [`docs/index.html`](./docs/index.html) (단일 파일, ~106KB · Tailwind 인라인) · SRS US-C/D/S/A 매핑
+→ 백업 링크 (Pages 미가용 시): [htmlpreview](https://htmlpreview.github.io/?https://github.com/serendibeats/cargypsy/blob/main/docs/index.html)
 
 ---
 
