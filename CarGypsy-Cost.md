@@ -22,6 +22,16 @@
 - 백엔드: NestJS Modular Monolith on AWS Seoul (SAD §3 참조)
 - 운행당 평균 사진 20장 + 알림 5건 + 결제 1건
 
+**자주 나오는 약어** (비개발자용 한 줄 풀이)
+- **FTE** = Full-Time Equivalent. 풀타임 1인 분량 (예: 0.5 FTE = 풀타임 절반)
+- **GMV** = Gross Merchandise Value. 플랫폼에서 발생하는 총 거래액
+- **PG** = Payment Gateway. 결제 대행 서비스 (포트원·토스페이먼츠 등)
+- **AWS Fargate / RDS / S3** = AWS의 컨테이너 서버 / DB / 파일 저장 서비스
+- **R2** = Cloudflare의 파일 저장 서비스 (사진 다운로드 무료가 강점)
+- **PIA** = Personal Information Impact Assessment, 개인정보 영향평가 (민간은 자율, 데이터 사업화 대비 권장)
+- **CPO** = Chief Privacy Officer, 개인정보보호책임자 (의무)
+- **BEP** = Break-Even Point, 손익분기점
+
 ---
 
 ## 2. 한눈에
