@@ -1,0 +1,41 @@
+digraph CostOperations {
+    title [label="운영 단계 월 비용 (월 1만 운행 기준, 검증 단가)"];
+
+    인프라 [label="인프라 + SaaS / 약 295만/월"];
+
+    aws [label="AWS Seoul / 약 85만/월 / (Fargate+RDS+R2 외부)"];
+    cf [label="Cloudflare R2 / 약 1.5만/월 / (egress 무료)"];
+    solapi [label="솔라피 알림+SMS / 약 75만/월 / (알림톡 13원, SMS 18원)"];
+    map [label="카카오맵 + TMap / 0~40만/월 / ⚠ 2027년부터 정가 시 200만/월"];
+    ocr [label="CLOVA OCR / 0~30만/월 / (MVP 생략 권장)"];
+    nice [label="NICE 본인확인 / 약 7만/월"];
+    aux [label="Sentry/Vercel/GHA / 약 28만/월"];
+
+    인력 [label="운영 인력 / 약 1,500~2,300만/월"];
+
+    cs [label="CS 2명 / 600~800만"];
+    settle [label="정산·제휴 1명 / 500~700만"];
+    devopsop [label="DevOps 0.5 / 500~700만"];
+
+    보험 [label="자동차취급업자 보험 / 약 100~300만/월 / (연 단위 분할)"];
+
+    pg [label="결제 PG 수수료 / GMV의 3.4% / (월 5억 GMV 시 1,700만) / ★ 별도 변동비"];
+
+    합계 [label="월 합계 (PG 제외) / 약 2,000~3,300만/월"];
+
+    인프라 -> aws;
+    인프라 -> cf;
+    인프라 -> solapi;
+    인프라 -> map;
+    인프라 -> ocr;
+    인프라 -> nice;
+    인프라 -> aux;
+
+    인력 -> cs;
+    인력 -> settle;
+    인력 -> devopsop;
+
+    인프라 -> 합계;
+    인력 -> 합계;
+    보험 -> 합계;
+}

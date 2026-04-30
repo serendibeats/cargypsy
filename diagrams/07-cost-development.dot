@@ -1,0 +1,42 @@
+digraph CostDevelopment {
+    title [label="개발 단계 비용 (1회성, 6~7개월)"];
+
+    人력 [label="인력 9명 (FTE) / 6개월 합계 / 약 4.3~5.4억"];
+
+    techlead [label="Tech Lead (1) / 1,000~1,400만/월"];
+    be [label="Backend (1) / 800~1,000만/월"];
+    rn [label="RN Mobile (2) / 800~1,000만/월"];
+    fe [label="FE Web (1) / 700~900만/월"];
+    iosaos [label="iOS/Android 컨설턴트 (0.5) / 외주 1,200만/월"];
+    devops [label="DevOps (0.5) / 1,000만/월"];
+    qa [label="QA (1) / 600~800만/월"];
+    pm [label="PM/PO (1) / 800~1,000만/월"];
+    ux [label="UX 디자이너 (1) / 600~800만/월"];
+
+    부대 [label="부대 비용 / 약 1,200~3,300만"];
+
+    design [label="디자인 자산 / 300~800만"];
+    setup [label="인프라 셋업 / 200~500만"];
+    appstore [label="앱스토어 계정 / Apple $99/년 / Google $25 일회"];
+    legal_init [label="변호사 약관 초안 / 500~1,500만 / (시간당 10~30만)"];
+
+    합계 [label="개발 단계 총합 / 약 4.4~5.7억 / (PIA·보험 별도)"];
+
+    人력 -> techlead;
+    人력 -> be;
+    人력 -> rn;
+    人력 -> fe;
+    人력 -> iosaos;
+    人력 -> devops;
+    人력 -> qa;
+    人력 -> pm;
+    人력 -> ux;
+
+    부대 -> design;
+    부대 -> setup;
+    부대 -> appstore;
+    부대 -> legal_init;
+
+    人력 -> 합계;
+    부대 -> 합계;
+}
