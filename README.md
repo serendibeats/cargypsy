@@ -6,6 +6,16 @@
 
 ---
 
+## 🎨 라이브 목업 v0.1
+
+[**▶ 클릭해서 바로 보기 (htmlpreview)**](https://htmlpreview.github.io/?https://github.com/serendibeats/cargypsy/blob/main/docs/index.html)
+
+차주·기사·공업사·관리자 **4역할 11화면**을 한 페이지로 시각화한 인터랙티브 mockup. 빌드/설치 없이 클릭으로 열린다.
+
+→ 소스: [`docs/index.html`](./docs/index.html) (단일 파일, ~89KB) · SRS US-C/D/S/A 매핑
+
+---
+
 ## 이 repo는 무엇인가
 
 외부에서 받은 **카집사 프로젝트 제안서**(`TalkFile_카집사PJT.docx.docx`, repo에는 미포함 — 비공개)를 정리한 자료. 두 가지 용도로 만들어졌다:
