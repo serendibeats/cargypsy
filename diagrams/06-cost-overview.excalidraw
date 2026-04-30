@@ -4,11 +4,11 @@
   "source": "https://github.com/swiftlysingh/excalidraw-cli",
   "elements": [
     {
-      "id": "K1IRrFiNsZ",
+      "id": "Gdw8CScqcF",
       "type": "rectangle",
-      "x": 367,
+      "x": 282,
       "y": 62,
-      "width": 140,
+      "width": 350,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -24,34 +24,34 @@
       "roundness": {
         "type": 3
       },
-      "seed": 1345343190,
+      "seed": 2135573904,
       "version": 1,
-      "versionNonce": 567576012,
+      "versionNonce": 579275337,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "sDqP8uHA-z",
+          "id": "ZvJgG_y0s6",
           "type": "arrow"
         },
         {
-          "id": "6ElNbmReMi",
+          "id": "CaWqC_Wua-",
           "type": "arrow"
         },
         {
-          "id": "XmPxSQLYAL",
+          "id": "MwDCYxLm8h",
           "type": "arrow"
         }
       ],
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false
     },
     {
-      "id": "r8_AeOdnsV0Lm1CV3intD",
+      "id": "7wKhUsvsqn3kGIlzhYERd",
       "type": "text",
-      "x": 377,
+      "x": 271,
       "y": 79.5,
-      "width": 120,
+      "width": 372,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -65,28 +65,28 @@
       "frameId": null,
       "index": "ab",
       "roundness": null,
-      "seed": 1192297325,
+      "seed": 1679031666,
       "version": 1,
-      "versionNonce": 107675841,
+      "versionNonce": 138558109,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
-      "text": "카집사 비용 한눈에",
+      "text": "카집사 비용 한눈에 (v0.2 reference 검증판)",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": null,
-      "originalText": "카집사 비용 한눈에",
+      "originalText": "카집사 비용 한눈에 (v0.2 reference 검증판)",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "a8lVcKWcKN",
+      "id": "zasdhjBLyb",
       "type": "rectangle",
-      "x": 302,
+      "x": 322,
       "y": 222,
       "width": 270,
       "height": 60,
@@ -104,24 +104,24 @@
       "roundness": {
         "type": 3
       },
-      "seed": 222372504,
+      "seed": 1614222616,
       "version": 1,
-      "versionNonce": 1706681564,
+      "versionNonce": 40123092,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "sDqP8uHA-z",
+          "id": "ZvJgG_y0s6",
           "type": "arrow"
         }
       ],
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false
     },
     {
-      "id": "kg9gkvYBq82oLK2aVy4pV",
+      "id": "ZWIqxSdmjjhJgL2VELL7B",
       "type": "text",
-      "x": 299,
+      "x": 319,
       "y": 239.5,
       "width": 276,
       "height": 25,
@@ -137,30 +137,30 @@
       "frameId": null,
       "index": "ad",
       "roundness": null,
-      "seed": 1893082159,
+      "seed": 1428727150,
       "version": 1,
-      "versionNonce": 558189160,
+      "versionNonce": 1099184173,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
-      "text": "① 개발 / 6~7개월 / 4.4~5.7억",
+      "text": "① 개발 / 6~7개월 / 2.7~3.6억",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": null,
-      "originalText": "① 개발 / 6~7개월 / 4.4~5.7억",
+      "originalText": "① 개발 / 6~7개월 / 2.7~3.6억",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "55JwgvWzMs",
+      "id": "3QM-H1LqE8",
       "type": "rectangle",
       "x": 62,
       "y": 222,
-      "width": 190,
+      "width": 210,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -176,26 +176,26 @@
       "roundness": {
         "type": 3
       },
-      "seed": 466583444,
+      "seed": 1793246971,
       "version": 1,
-      "versionNonce": 1824797099,
+      "versionNonce": 236687434,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "6ElNbmReMi",
+          "id": "CaWqC_Wua-",
           "type": "arrow"
         }
       ],
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false
     },
     {
-      "id": "HZMbJKeAwvQBHyCwXdpUw",
+      "id": "cvSLxKMnDCHfDTfl2OsRx",
       "type": "text",
-      "x": 67,
+      "x": 65,
       "y": 239.5,
-      "width": 180,
+      "width": 204,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -209,28 +209,28 @@
       "frameId": null,
       "index": "af",
       "roundness": null,
-      "seed": 1678547493,
+      "seed": 1263537758,
       "version": 1,
-      "versionNonce": 1614190545,
+      "versionNonce": 2008851556,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
-      "text": "② 운영 / 매월 2~3천만",
+      "text": "② 운영 / 매월 ~2,000만",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": null,
-      "originalText": "② 운영 / 매월 2~3천만",
+      "originalText": "② 운영 / 매월 ~2,000만",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "Te5GlANf4D",
+      "id": "c8McebMrQ8",
       "type": "rectangle",
-      "x": 622,
+      "x": 642,
       "y": 222,
       "width": 280,
       "height": 60,
@@ -248,28 +248,28 @@
       "roundness": {
         "type": 3
       },
-      "seed": 204133904,
+      "seed": 1538008781,
       "version": 1,
-      "versionNonce": 344702961,
+      "versionNonce": 263526215,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "XmPxSQLYAL",
+          "id": "MwDCYxLm8h",
           "type": "arrow"
         },
         {
-          "id": "PtQLhsFTEP",
+          "id": "pB3FGorRfU",
           "type": "arrow"
         }
       ],
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false
     },
     {
-      "id": "eKinf7bpJXgMha-yFZGUk",
+      "id": "y8MJksmp0yHkGxEjwrZNm",
       "type": "text",
-      "x": 618,
+      "x": 638,
       "y": 239.5,
       "width": 288,
       "height": 25,
@@ -285,12 +285,12 @@
       "frameId": null,
       "index": "ah",
       "roundness": null,
-      "seed": 1102311089,
+      "seed": 15378857,
       "version": 1,
-      "versionNonce": 796440308,
+      "versionNonce": 1926073850,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
       "text": "③ 규제 / 1천~1억 + 매년 의무 12종",
@@ -304,9 +304,9 @@
       "lineHeight": 1.25
     },
     {
-      "id": "Q7-sB859XH",
+      "id": "seRC1xld8A",
       "type": "rectangle",
-      "x": 627,
+      "x": 647,
       "y": 362,
       "width": 270,
       "height": 60,
@@ -324,24 +324,24 @@
       "roundness": {
         "type": 3
       },
-      "seed": 317969912,
+      "seed": 1982061831,
       "version": 1,
-      "versionNonce": 1327080420,
+      "versionNonce": 1592662963,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "PtQLhsFTEP",
+          "id": "pB3FGorRfU",
           "type": "arrow"
         }
       ],
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false
     },
     {
-      "id": "rHUemv_zM29acmZmQYPVR",
+      "id": "AQd6J8FfMkAidneAFz7TO",
       "type": "text",
-      "x": 624,
+      "x": 644,
       "y": 379.5,
       "width": 276,
       "height": 25,
@@ -357,12 +357,12 @@
       "frameId": null,
       "index": "aj",
       "roundness": null,
-      "seed": 361330320,
+      "seed": 1650699156,
       "version": 1,
-      "versionNonce": 293701781,
+      "versionNonce": 1659040956,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
       "text": "⚠ 위치정보 등록·보험 / M0 즉시 착수",
@@ -376,9 +376,9 @@
       "lineHeight": 1.25
     },
     {
-      "id": "sDqP8uHA-z",
+      "id": "ZvJgG_y0s6",
       "type": "arrow",
-      "x": 437,
+      "x": 457,
       "y": 122,
       "width": 0,
       "height": 100,
@@ -396,12 +396,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 866112110,
+      "seed": 214654488,
       "version": 1,
-      "versionNonce": 1138266563,
+      "versionNonce": 1976205622,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
       "points": [
@@ -416,7 +416,7 @@
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "K1IRrFiNsZ",
+        "elementId": "Gdw8CScqcF",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -424,7 +424,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "a8lVcKWcKN",
+        "elementId": "zasdhjBLyb",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -436,11 +436,11 @@
       "elbowed": false
     },
     {
-      "id": "6ElNbmReMi",
+      "id": "CaWqC_Wua-",
       "type": "arrow",
-      "x": 402,
+      "x": 370,
       "y": 122,
-      "width": 245,
+      "width": 203,
       "height": 100,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -456,12 +456,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1992301068,
+      "seed": 528843468,
       "version": 1,
-      "versionNonce": 14466667,
+      "versionNonce": 9407957,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
       "points": [
@@ -474,17 +474,17 @@
           50
         ],
         [
-          -245,
+          -203,
           50
         ],
         [
-          -245,
+          -203,
           100
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "K1IRrFiNsZ",
+        "elementId": "Gdw8CScqcF",
         "mode": "orbit",
         "fixedPoint": [
           0,
@@ -492,7 +492,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "55JwgvWzMs",
+        "elementId": "3QM-H1LqE8",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -504,11 +504,11 @@
       "elbowed": false
     },
     {
-      "id": "XmPxSQLYAL",
+      "id": "MwDCYxLm8h",
       "type": "arrow",
-      "x": 472,
+      "x": 545,
       "y": 122,
-      "width": 290,
+      "width": 237,
       "height": 100,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -524,12 +524,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1745976379,
+      "seed": 28453949,
       "version": 1,
-      "versionNonce": 1663786775,
+      "versionNonce": 1738026700,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
       "points": [
@@ -542,17 +542,17 @@
           50
         ],
         [
-          290,
+          237,
           50
         ],
         [
-          290,
+          237,
           100
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "K1IRrFiNsZ",
+        "elementId": "Gdw8CScqcF",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -560,7 +560,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "Te5GlANf4D",
+        "elementId": "c8McebMrQ8",
         "mode": "orbit",
         "fixedPoint": [
           0,
@@ -572,9 +572,9 @@
       "elbowed": false
     },
     {
-      "id": "PtQLhsFTEP",
+      "id": "pB3FGorRfU",
       "type": "arrow",
-      "x": 762,
+      "x": 782,
       "y": 282,
       "width": 0,
       "height": 80,
@@ -592,12 +592,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1484901542,
+      "seed": 1640237071,
       "version": 1,
-      "versionNonce": 694560805,
+      "versionNonce": 1179045759,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552667851,
+      "updated": 1777553532465,
       "link": null,
       "locked": false,
       "points": [
@@ -612,7 +612,7 @@
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "Te5GlANf4D",
+        "elementId": "c8McebMrQ8",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -620,7 +620,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "Q7-sB859XH",
+        "elementId": "seRC1xld8A",
         "mode": "orbit",
         "fixedPoint": [
           0.5,

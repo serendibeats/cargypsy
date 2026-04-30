@@ -4,11 +4,11 @@
   "source": "https://github.com/swiftlysingh/excalidraw-cli",
   "elements": [
     {
-      "id": "1jLAM-kTVH",
+      "id": "WWz7a2kqqe",
       "type": "rectangle",
-      "x": 411,
+      "x": 401,
       "y": 62,
-      "width": 190,
+      "width": 290,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -24,38 +24,38 @@
       "roundness": {
         "type": 3
       },
-      "seed": 942454759,
+      "seed": 1440888777,
       "version": 1,
-      "versionNonce": 882354066,
+      "versionNonce": 1209187565,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "xqsHklYhdH",
+          "id": "koR4ZMRLSS",
           "type": "arrow"
         },
         {
-          "id": "rpFnrMLO5g",
+          "id": "8T1dv1ngBB",
           "type": "arrow"
         },
         {
-          "id": "mPmvmABNVw",
+          "id": "YVM74MD0On",
           "type": "arrow"
         },
         {
-          "id": "POqZPE6NzY",
+          "id": "b3bnQz2Npk",
           "type": "arrow"
         }
       ],
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false
     },
     {
-      "id": "VDezD_y2n_FsX0kmYcJvU",
+      "id": "5ozJ0UiO38aMapc6CNubL",
       "type": "text",
-      "x": 416,
+      "x": 396,
       "y": 79.5,
-      "width": 180,
+      "width": 300,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -69,28 +69,28 @@
       "frameId": null,
       "index": "ab",
       "roundness": null,
-      "seed": 1017557087,
+      "seed": 1360751257,
       "version": 1,
-      "versionNonce": 1725975260,
+      "versionNonce": 1595017355,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false,
-      "text": "운영 단계 (월 1만 운행)",
+      "text": "운영 단계 (월 1만 운행, v0.2 검증판)",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": null,
-      "originalText": "운영 단계 (월 1만 운행)",
+      "originalText": "운영 단계 (월 1만 운행, v0.2 검증판)",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "ViFIDTEGGi",
+      "id": "OjdOdD7QTI",
       "type": "rectangle",
-      "x": 972,
+      "x": 1032,
       "y": 262,
       "width": 250,
       "height": 60,
@@ -108,28 +108,28 @@
       "roundness": {
         "type": 3
       },
-      "seed": 1680859260,
+      "seed": 1228249229,
       "version": 1,
-      "versionNonce": 2124664567,
+      "versionNonce": 386172674,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "xqsHklYhdH",
+          "id": "koR4ZMRLSS",
           "type": "arrow"
         },
         {
-          "id": "oywHa2gzh2",
+          "id": "VdssnprUNu",
           "type": "arrow"
         }
       ],
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false
     },
     {
-      "id": "_GglexNewj2Ke-iRDj2FF",
+      "id": "1TiZxwrcqbccqPFI0RWxF",
       "type": "text",
-      "x": 971,
+      "x": 1031,
       "y": 279.5,
       "width": 252,
       "height": 25,
@@ -145,12 +145,12 @@
       "frameId": null,
       "index": "ad",
       "roundness": null,
-      "seed": 1138253746,
+      "seed": 247514529,
       "version": 1,
-      "versionNonce": 2046657672,
+      "versionNonce": 1008578379,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false,
       "text": "인프라 + SaaS / 약 295만/월",
@@ -164,11 +164,11 @@
       "lineHeight": 1.25
     },
     {
-      "id": "Au4wnAIhcV",
+      "id": "JmCF2g6NzT",
       "type": "rectangle",
       "x": 332,
       "y": 262,
-      "width": 310,
+      "width": 370,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -184,30 +184,30 @@
       "roundness": {
         "type": 3
       },
-      "seed": 244354153,
+      "seed": 1657008287,
       "version": 1,
-      "versionNonce": 674797246,
+      "versionNonce": 188287915,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "rpFnrMLO5g",
+          "id": "8T1dv1ngBB",
           "type": "arrow"
         },
         {
-          "id": "EeY6mYgPje",
+          "id": "0-H0hLe8dW",
           "type": "arrow"
         }
       ],
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false
     },
     {
-      "id": "eSReAoFrtU0V0yFbgmbKv",
+      "id": "C0xhvqVICirhp-81WUKmg",
       "type": "text",
-      "x": 325,
+      "x": 319,
       "y": 279.5,
-      "width": 324,
+      "width": 396,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -221,26 +221,26 @@
       "frameId": null,
       "index": "af",
       "roundness": null,
-      "seed": 1779553944,
+      "seed": 741313419,
       "version": 1,
-      "versionNonce": 2137959289,
+      "versionNonce": 1869264272,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false,
-      "text": "운영 인력 3.5명 / 1,500~2,300만/월",
+      "text": "운영 인력 3.5명 / 약 1,500만/월 (4대보험 포함)",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": null,
-      "originalText": "운영 인력 3.5명 / 1,500~2,300만/월",
+      "originalText": "운영 인력 3.5명 / 약 1,500만/월 (4대보험 포함)",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "_P-WuxubIB",
+      "id": "GntUEv7AtH",
       "type": "rectangle",
       "x": 62,
       "y": 262,
@@ -260,26 +260,26 @@
       "roundness": {
         "type": 3
       },
-      "seed": 1366304647,
+      "seed": 740893662,
       "version": 1,
-      "versionNonce": 1580638175,
+      "versionNonce": 887607534,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "mPmvmABNVw",
+          "id": "YVM74MD0On",
           "type": "arrow"
         },
         {
-          "id": "l68zzgMyHF",
+          "id": "oUX3pGkr2z",
           "type": "arrow"
         }
       ],
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false
     },
     {
-      "id": "nv0G5wwHJFdKxlVMSSnWH",
+      "id": "fNIaqcORYbSbjDGo_CIQL",
       "type": "text",
       "x": 64,
       "y": 279.5,
@@ -297,12 +297,12 @@
       "frameId": null,
       "index": "ah",
       "roundness": null,
-      "seed": 1840836549,
+      "seed": 2059380931,
       "version": 1,
-      "versionNonce": 96419436,
+      "versionNonce": 562371807,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false,
       "text": "보험 분할 / 100~300만/월",
@@ -316,11 +316,11 @@
       "lineHeight": 1.25
     },
     {
-      "id": "ZepaRVt3sh",
+      "id": "edIL0yxRqi",
       "type": "rectangle",
-      "x": 362,
+      "x": 322,
       "y": 422,
-      "width": 250,
+      "width": 390,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -336,34 +336,34 @@
       "roundness": {
         "type": 3
       },
-      "seed": 2102964009,
+      "seed": 865897936,
       "version": 1,
-      "versionNonce": 1592143691,
+      "versionNonce": 1594260889,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "oywHa2gzh2",
+          "id": "VdssnprUNu",
           "type": "arrow"
         },
         {
-          "id": "EeY6mYgPje",
+          "id": "0-H0hLe8dW",
           "type": "arrow"
         },
         {
-          "id": "l68zzgMyHF",
+          "id": "oUX3pGkr2z",
           "type": "arrow"
         }
       ],
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false
     },
     {
-      "id": "H6zOkr-VwH73t4eKKU3J0",
+      "id": "DY9UtIE18OtwSwD2AYSx3",
       "type": "text",
-      "x": 361,
+      "x": 307,
       "y": 439.5,
-      "width": 252,
+      "width": 420,
       "height": 25,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -377,28 +377,28 @@
       "frameId": null,
       "index": "aj",
       "roundness": null,
-      "seed": 976254770,
+      "seed": 1645411356,
       "version": 1,
-      "versionNonce": 868755117,
+      "versionNonce": 112671351,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false,
-      "text": "월 합계 / 2,000~3,300만/월",
+      "text": "월 합계 / 약 2,000만/월 (저 950 ~ 고 3,800)",
       "fontSize": 20,
       "fontFamily": 5,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": null,
-      "originalText": "월 합계 / 2,000~3,300만/월",
+      "originalText": "월 합계 / 약 2,000만/월 (저 950 ~ 고 3,800)",
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
-      "id": "LOIYDylTVE",
+      "id": "QBWgs7DTH1",
       "type": "rectangle",
-      "x": 692,
+      "x": 752,
       "y": 262,
       "width": 230,
       "height": 60,
@@ -416,24 +416,24 @@
       "roundness": {
         "type": 3
       },
-      "seed": 2118066414,
+      "seed": 1216152153,
       "version": 1,
-      "versionNonce": 1058149605,
+      "versionNonce": 2053249640,
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "POqZPE6NzY",
+          "id": "b3bnQz2Npk",
           "type": "arrow"
         }
       ],
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false
     },
     {
-      "id": "HUZF3kU3gO-6dmfeP4wjv",
+      "id": "pvWzEwodmQZvFav1OygtO",
       "type": "text",
-      "x": 693,
+      "x": 753,
       "y": 279.5,
       "width": 228,
       "height": 25,
@@ -449,12 +449,12 @@
       "frameId": null,
       "index": "al",
       "roundness": null,
-      "seed": 1186280206,
+      "seed": 323705154,
       "version": 1,
-      "versionNonce": 675824803,
+      "versionNonce": 2064551715,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671233,
+      "updated": 1777553536052,
       "link": null,
       "locked": false,
       "text": "★ 별도 PG / GMV의 3.4%",
@@ -468,11 +468,11 @@
       "lineHeight": 1.25
     },
     {
-      "id": "xqsHklYhdH",
+      "id": "koR4ZMRLSS",
       "type": "arrow",
-      "x": 563,
+      "x": 633,
       "y": 122,
-      "width": 534,
+      "width": 524,
       "height": 140,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -488,12 +488,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1222665803,
+      "seed": 328566263,
       "version": 1,
-      "versionNonce": 1703398665,
+      "versionNonce": 828135347,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -506,17 +506,17 @@
           50
         ],
         [
-          534,
+          524,
           50
         ],
         [
-          534,
+          524,
           140
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "1jLAM-kTVH",
+        "elementId": "WWz7a2kqqe",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -524,7 +524,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "ViFIDTEGGi",
+        "elementId": "OjdOdD7QTI",
         "mode": "orbit",
         "fixedPoint": [
           0,
@@ -536,9 +536,9 @@
       "elbowed": false
     },
     {
-      "id": "rpFnrMLO5g",
+      "id": "8T1dv1ngBB",
       "type": "arrow",
-      "x": 487,
+      "x": 517,
       "y": 122,
       "width": 0,
       "height": 140,
@@ -556,12 +556,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 185050700,
+      "seed": 513395832,
       "version": 1,
-      "versionNonce": 129002962,
+      "versionNonce": 137132111,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -576,7 +576,7 @@
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "1jLAM-kTVH",
+        "elementId": "WWz7a2kqqe",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -584,7 +584,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "Au4wnAIhcV",
+        "elementId": "JmCF2g6NzT",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -596,11 +596,11 @@
       "elbowed": false
     },
     {
-      "id": "mPmvmABNVw",
+      "id": "YVM74MD0On",
       "type": "arrow",
-      "x": 449,
+      "x": 459,
       "y": 122,
-      "width": 277,
+      "width": 287,
       "height": 140,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -616,12 +616,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 496261922,
+      "seed": 1268920505,
       "version": 1,
-      "versionNonce": 1763970789,
+      "versionNonce": 103488651,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -634,17 +634,17 @@
           50
         ],
         [
-          -277,
+          -287,
           50
         ],
         [
-          -277,
+          -287,
           140
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "1jLAM-kTVH",
+        "elementId": "WWz7a2kqqe",
         "mode": "orbit",
         "fixedPoint": [
           0,
@@ -652,7 +652,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "_P-WuxubIB",
+        "elementId": "GntUEv7AtH",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -664,11 +664,11 @@
       "elbowed": false
     },
     {
-      "id": "oywHa2gzh2",
+      "id": "VdssnprUNu",
       "type": "arrow",
-      "x": 1097,
+      "x": 1157,
       "y": 322,
-      "width": 547,
+      "width": 542,
       "height": 100,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -684,12 +684,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1814391856,
+      "seed": 1295027712,
       "version": 1,
-      "versionNonce": 673081433,
+      "versionNonce": 464220833,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -702,17 +702,17 @@
           50
         ],
         [
-          -547,
+          -542,
           50
         ],
         [
-          -547,
+          -542,
           100
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "ViFIDTEGGi",
+        "elementId": "OjdOdD7QTI",
         "mode": "orbit",
         "fixedPoint": [
           0,
@@ -720,7 +720,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "ZepaRVt3sh",
+        "elementId": "edIL0yxRqi",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -732,9 +732,9 @@
       "elbowed": false
     },
     {
-      "id": "EeY6mYgPje",
+      "id": "0-H0hLe8dW",
       "type": "arrow",
-      "x": 487,
+      "x": 517,
       "y": 322,
       "width": 0,
       "height": 100,
@@ -752,12 +752,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1058127861,
+      "seed": 1260003898,
       "version": 1,
-      "versionNonce": 1012773718,
+      "versionNonce": 720558324,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -772,7 +772,7 @@
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "Au4wnAIhcV",
+        "elementId": "JmCF2g6NzT",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -780,7 +780,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "ZepaRVt3sh",
+        "elementId": "edIL0yxRqi",
         "mode": "orbit",
         "fixedPoint": [
           0.5,
@@ -792,11 +792,11 @@
       "elbowed": false
     },
     {
-      "id": "l68zzgMyHF",
+      "id": "oUX3pGkr2z",
       "type": "arrow",
       "x": 172,
       "y": 322,
-      "width": 253,
+      "width": 248,
       "height": 100,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -812,12 +812,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 1926164450,
+      "seed": 669599883,
       "version": 1,
-      "versionNonce": 421442478,
+      "versionNonce": 567067225,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -830,17 +830,17 @@
           50
         ],
         [
-          253,
+          248,
           50
         ],
         [
-          253,
+          248,
           100
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "_P-WuxubIB",
+        "elementId": "GntUEv7AtH",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -848,7 +848,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "ZepaRVt3sh",
+        "elementId": "edIL0yxRqi",
         "mode": "orbit",
         "fixedPoint": [
           0,
@@ -860,11 +860,11 @@
       "elbowed": false
     },
     {
-      "id": "POqZPE6NzY",
+      "id": "b3bnQz2Npk",
       "type": "arrow",
-      "x": 525,
+      "x": 575,
       "y": 122,
-      "width": 282,
+      "width": 292,
       "height": 140,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -880,12 +880,12 @@
       "roundness": {
         "type": 2
       },
-      "seed": 521854441,
+      "seed": 727700570,
       "version": 1,
-      "versionNonce": 349821477,
+      "versionNonce": 2009862393,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1777552671234,
+      "updated": 1777553536053,
       "link": null,
       "locked": false,
       "points": [
@@ -898,17 +898,17 @@
           90
         ],
         [
-          282,
+          292,
           90
         ],
         [
-          282,
+          292,
           140
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
-        "elementId": "1jLAM-kTVH",
+        "elementId": "WWz7a2kqqe",
         "mode": "orbit",
         "fixedPoint": [
           1,
@@ -916,7 +916,7 @@
         ]
       },
       "endBinding": {
-        "elementId": "LOIYDylTVE",
+        "elementId": "QBWgs7DTH1",
         "mode": "orbit",
         "fixedPoint": [
           0,

@@ -1,8 +1,8 @@
 digraph CostOverview {
-    title [label="카집사 비용 한눈에"];
+    title [label="카집사 비용 한눈에 (v0.2 reference 검증판)"];
 
-    dev [label="① 개발 / 6~7개월 / 4.4~5.7억"];
-    ops [label="② 운영 / 매월 2~3천만"];
+    dev [label="① 개발 / 6~7개월 / 2.7~3.6억"];
+    ops [label="② 운영 / 매월 ~2,000만"];
     reg [label="③ 규제 / 1천~1억 + 매년 의무 12종"];
     crit [label="⚠ 위치정보 등록·보험 / M0 즉시 착수"];
 
